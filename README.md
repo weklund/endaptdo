@@ -26,3 +26,7 @@ Features:
 ### Respondents (guest) can rsvp with a yes or no
 ### Respondents can add their name
 ### Respondents can add their phone number
+
+
+TODOS: 
+- [ ] Lock down the GH action for Amplify 
