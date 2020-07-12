@@ -1,0 +1,18 @@
+type Event @model {
+    id: ID
+    name: String!
+    description: String!
+    deadline: String!
+    max_respondents: Int!
+    respondents: [Respondent] @connection(keyName: "byEvent", fields: ["id"])
+    created_by: String
+}
+
+type Respondent @model @key(name: "byEvent", fields: ["event_id"]) {
+  id: ID
+  first_name: String
+  last_name: String!
+  status: Boolean
+  event_id: ID
+  event: Event @connection(fields: ["event_id"])
+}
