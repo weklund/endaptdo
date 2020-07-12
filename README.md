@@ -26,3 +26,13 @@ Features:
 ### Respondents (guest) can rsvp with a yes or no
 ### Respondents can add their name
 ### Respondents can add their phone number
+
+#TODOS:
+
+- [ ] Cognito auth with phone number as an identifier instead of email
+- [ ] Get Pull Review Preview working with Amplify 
+- [ ] Make GraphQL API
+- [ ] Make Event Creation page
+- [ ] Make Event RSVP page with unique GUID (maybe small_hash, or bit.ly api link creation)
+- [ ] Style both pages
+- [ ] Design SMS implementation for event creators
