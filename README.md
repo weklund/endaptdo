@@ -10,23 +10,23 @@ Phone: 502-123-4567
 
 Features:
 
-### Event owners (registered) can create events that respondents can rsvp (yes, no) 
-### Event owners can specify rsvp deadline
-### Event owners can specify a max number of rsvps (optional)
-### Event owners can make events 
+- Event owners (registered) can create events that respondents can rsvp (yes, no) 
+- Event owners can specify rsvp deadline
+- Event owners can specify a max number of rsvps (optional)
+- Event owners can make events 
     - Event:
         - Name
         - Description
         - Event Deadline (optional?)
         - Max # of respondents (optional)
         - Event banner (icing)
-### Event owners gets notified when a new rsvp happens, or the deadline is up, or max # of yes respondents is reached
+- Event owners gets notified when a new rsvp happens, or the deadline is up, or max # of yes respondents is reached
 
 
 
-### Respondents (guest) can rsvp with a yes or no
-### If Respondent says yes, they can add their name and phone number
-### If Respondent says no, they can add their name
+- Respondents (guest) can rsvp with a yes or no
+- If Respondent says yes, they can add their name and phone number
+- If Respondent says no, they can add their name
 
 #TODOS:
 
