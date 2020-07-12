@@ -10,6 +10,11 @@
             "StackName": "amplify-endaptdo-production-152947",
             "StackId": "arn:aws:cloudformation:us-east-2:979139263425:stack/amplify-endaptdo-production-152947/0ddc0710-c476-11ea-98c0-064ea827a74e",
             "AmplifyAppId": "d1tcs0v40ugwni"
+        },
+        "categories": {
+            "auth": {
+                "UserModel": {}
+            }
         }
     }
 }
